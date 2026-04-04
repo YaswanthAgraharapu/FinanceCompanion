@@ -6,7 +6,12 @@ A personal finance companion mobile app built with React Native (Expo) that help
 
 ## 📱 Screenshots
 
-> Add screenshots here after recording your demo
+> ![WhatsApp Image 2026-04-04 at 10 42 28 PM (1)](https://github.com/user-attachments/assets/a90582cb-24e8-43a6-aa38-728a96ea2562)
+![WhatsApp Image 2026-04-04 at 10 42 27 PM](https://github.com/user-attachments/assets/0c4acd62-a268-4583-a2b2-fc1512e91d41)
+![WhatsApp Image 2026-04-04 at 10 42 27 PM (1)](https://github.com/user-attachments/assets/e1b9185b-ae7c-4a8a-b527-5f5877fd5543)
+![WhatsApp Image 2026-04-04 at 10 42 28 PM](https://github.com/user-attachments/assets/d38bb68a-94ad-4020-b62f-693f3d1b14d5)
+![WhatsApp Image 2026-04-04 at 10 42 28 PM (2)](https://github.com/user-attachments/assets/0d9b6c86-d0d5-4ed2-b601-b35c97f4d535)
+
 
 ---
 
