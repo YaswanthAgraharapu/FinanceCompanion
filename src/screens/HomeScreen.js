@@ -44,7 +44,7 @@ export default function HomeScreen() {
     <ScrollView style={styles.container} showsVerticalScrollIndicator={false}>
       {/* Header */}
       <LinearGradient colors={['#6C63FF', '#9B59B6']} style={styles.header}>
-        <Text style={styles.greeting}>👋 Welcome back, Yashu</Text>
+        <Text style={styles.greeting}>👋 Welcome to zorvyn Finance Companion</Text>
         <Text style={styles.balanceLabel}>Total Balance</Text>
         <Text style={styles.balanceAmount}>₹{balance.toLocaleString('en-IN')}</Text>
         <Text style={styles.balanceSub}>Updated just now</Text>
